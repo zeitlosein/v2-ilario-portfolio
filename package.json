@@ -1,0 +1,16 @@
+{
+  "name": "ilario-v2",
+  "version": "1.0.0",
+  "description": "Ilario Circosta Portfolio",
+  "main": "index.js",
+  "homepage": "https://zeitlosein.github.io/v2-ilario-portfolio",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolas Smith - Persimmon",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
